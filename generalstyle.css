@@ -1,0 +1,15 @@
+.body{
+  background-image: url(../205-IA-2.0/images/6.5.17-Richardson-Article-928x522.jpg);
+  background-size: cover;
+  height: auto;
+  width: auto;
+}
+
+
+*{
+  background-image: url(../205-IA-2.0/images/alexander-andrews-JYGnB9gTCls-unsplash.jpg);
+  background-size: cover;
+  height: auto;
+  width: auto;
+  background-blend-mode: color-dodge;
+}
