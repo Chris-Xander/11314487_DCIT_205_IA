@@ -29,7 +29,7 @@ Welcome to the official repository for the University of Ghana Computer Science 
 
 ## Author
 ---------
-Your Name: [Danquah Christian A.K.D]
+Name: [Danquah Christian A.K.D]
 Student ID: [11314487]
 
 ## Screenshots
@@ -37,13 +37,13 @@ Student ID: [11314487]
 Below are a few Screenshots of the project
 
 ### Home Page
-![Home Page](../205-IA-2.0/images/Screenshot%202023-11-28%20211350.png)
+![Home Page](https://github.com/Chris-Xander/11314487_DCIT_205_IA/blob/main/Screenshot%202023-11-28%20211350.png)
 
 ### About Page
-![About Page](../205-IA-2.0/images/Screenshot%202023-11-28%20211619.png)
+![About Page](https://github.com/Chris-Xander/11314487_DCIT_205_IA/blob/main/Screenshot%202023-11-28%20211451.png)
 
 ### NVV Page
-![NVV Page](../205-IA-2.0/images/Screenshot%202023-11-28%20211451.png)
+![NVV Page](https://github.com/Chris-Xander/11314487_DCIT_205_IA/blob/main/Screenshot%202023-11-28%20211619.png)
 
 ### ...
 
