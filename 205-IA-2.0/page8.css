@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url(../205-IA-2.0/images/hunter-haley-s8OO2-t-HmQ-unsplash.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.image-box {
+  margin-bottom: 20px;
+  background-image: url(../205-IA-2.0/images/fandroid_and_melody__by_hoikatz_dbbira9.png);
+}
+
+.description {
+  text-align: center;
+  max-width: 600px;
+}
